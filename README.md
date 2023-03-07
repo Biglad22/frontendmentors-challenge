@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 DESIGN:
-("assets/screenshots/active-states.jpg")
-("assets/screenshots/desktop-design.jpg")
-("assets/screenshots/mobile-design.jpg")
+[assets/screenshots/active-states.jpg]
+[assets/screenshots/desktop-design.jpg]
+[assets/screenshots/mobile-design.jpg]
 
 SOLUTION:
 Desktop solution: [assets/screenshots/desktop-solution.png]
