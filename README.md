@@ -28,22 +28,22 @@ Users should be able to:
 ### Screenshot
 DESIGN:
 ("assets/screenshots/active-states.jpg")
-("assets\screenshots\desktop-design.jpg")
-("assets\screenshots\mobile-design.jpg")
+("assets/screenshots/desktop-design.jpg")
+("assets/screenshots/mobile-design.jpg")
 
 SOLUTION:
-Desktop solution: ("assets\screenshots\desktop-solution.png")
+Desktop solution: [assets/screenshots/desktop-solution.png]
 
-Mobile solution:("assets\screenshots\mobile-solution.png")
+Mobile solution:[assets/screenshots/mobile-solution.png]
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Biglad22/frontendmentors-challenge]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### my process
+## My process
 
 ### Built with
 
@@ -61,13 +61,13 @@ i'll like to focus more on interactivity of this component using JavaScript.
 
 ### Useful resources
 
-- [resource 1](https://www.fonts.google.com) - This helped me with the perfect font that best matches the design. it has been very useful in other projects.
-- [resource 2](https://www.flaticon.com) - I got the icon pack used in this project from here. although i had some trouble aligning the icons.
+- [https://www.fonts.google.com] - This helped me with the perfect font that best matches the design. it has been very useful in other projects.
+- [https://www.flaticon.com] - I got the icon pack used in this project from here. although i had some trouble aligning the icons.
 
 ## Author
 
 - github - [Biglad22](https://github.com/Biglad22)
-- Frontend Mentor - [@yBiglad22](https://www.frontendmentor.io/profile/Biglad22)
+- Frontend Mentor - [@Biglad22](https://www.frontendmentor.io/profile/Biglad22)
 - Twitter - [@EA_Opappy](https://www.twitter.com/EA_Opappy)
 
 
