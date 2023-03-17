@@ -1,14 +1,17 @@
+HTML{
+    font-size:18px;
+}
 *{
     box-sizing:border-box;
 }
 
 body{
     margin:0;
-    font-size:18px;
+    /*font-size:18px;*/
 }
 body > div{
     display:flex;
-    width:42.22rem;
+    width:40rem;
     height:fit-content;
     position: relative;
     top:50vh;
@@ -126,8 +129,10 @@ body > div{
     width:100%;
     margin:0.889rem 0;
     padding:calc((40px - 1rem)/2);
-    border-radius:8px;
     align-items:center;
+    border:1px solid red;
+    border-image:linear-gradient(to right, hsl(241, 100%, 89%)4px, transparent 4px)0% 100% ;
+    border-radius:8px;
 }
 .box>div{
     flex-basis:auto;
@@ -228,11 +233,11 @@ a:active{
 }
 a:active >p{
     color:hsl(241, 100%, 89%);
-    transition:all 0.5s;
+    transition:all 5s;
 }
 
 
-@media(max-width:760px){
+@media(max-width:680px){
     body{
         font-size:16px;
     }
@@ -273,5 +278,10 @@ a:active >p{
     a{
         padding:calc((40px - 1rem)/2);
         margin:1.5rem 0;
+    }
+}
+@media(max-width:390px){
+    HTML{
+        font-size:14px;   
     }
 }
